@@ -53,6 +53,7 @@ export default StyleSheet.create({
   },
 
   scrollContainer: {
-    paddingVertical: 8,
+    paddingTop: 8,
+    paddingBottom: 12,
   },
 });
